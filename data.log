@@ -1,0 +1,62 @@
+2025-11-18 19:49:53,615-20-logger init-10
+2025-11-18 19:49:53,615-58-program started-10
+2025-11-18 19:49:53,639-25-csv file loaded-10
+2025-11-18 19:49:53,640-61-file loaded-10
+2025-11-18 19:49:53,648-45-'>' not supported between instances of 'str' and 'int'-40
+2025-11-18 19:49:53,650-63-preprocessing done for age-10
+2025-11-18 19:49:53,653-56-'NoneType' object is not subscriptable-40
+2025-11-18 19:49:53,655-65-preprocessing done for marks-10
+2025-11-18 19:49:53,655-70-'NoneType' object has no attribute 'to_csv'-40
+2025-11-18 19:51:50,423-20-logger init-10
+2025-11-18 19:51:50,424-58-program started-10
+2025-11-18 19:51:50,432-25-csv file loaded-10
+2025-11-18 19:51:50,433-61-file loaded-10
+2025-11-18 19:51:50,433-45-'>' not supported between instances of 'str' and 'int'-40
+2025-11-18 19:51:50,434-63-preprocessing done for age-10
+2025-11-18 19:51:50,434-56-'NoneType' object is not subscriptable-40
+2025-11-18 19:51:50,434-65-preprocessing done for marks-10
+2025-11-18 19:51:50,435-70-'NoneType' object has no attribute 'to_csv'-40
+2025-11-18 19:52:16,591-20-logger init-10
+2025-11-18 19:52:16,591-58-program started-10
+2025-11-18 19:52:16,599-25-csv file loaded-10
+2025-11-18 19:52:16,600-61-file loaded-10
+2025-11-18 19:52:16,600-45-'float' object has no attribute 'isdigit'-40
+2025-11-18 19:52:16,601-63-preprocessing done for age-10
+2025-11-18 19:52:16,601-56-'NoneType' object is not subscriptable-40
+2025-11-18 19:52:16,601-65-preprocessing done for marks-10
+2025-11-18 19:52:16,603-70-'NoneType' object has no attribute 'to_csv'-40
+2025-11-18 19:57:06,667-20-logger init-10
+2025-11-18 19:57:06,667-56-program started-10
+2025-11-18 19:57:06,674-25-csv file loaded-10
+2025-11-18 19:57:06,675-59-file loaded-10
+2025-11-18 19:57:06,676-43-'age'-40
+2025-11-18 19:57:06,677-61-preprocessing done for age-10
+2025-11-18 19:57:06,677-54-'NoneType' object is not subscriptable-40
+2025-11-18 19:57:06,677-63-preprocessing done for marks-10
+2025-11-18 19:57:06,677-68-'NoneType' object has no attribute 'to_csv'-40
+2025-11-18 20:05:42,311-20-logger init-10
+2025-11-18 20:05:42,312-57-program started-10
+2025-11-18 20:05:42,357-25-csv file loaded-10
+2025-11-18 20:05:42,358-60-file loaded-10
+2025-11-18 20:05:42,368-43-'age'-40
+2025-11-18 20:05:42,372-62-preprocessing done for age-10
+2025-11-18 20:05:42,372-55-'NoneType' object is not subscriptable-40
+2025-11-18 20:05:42,373-64-preprocessing done for marks-10
+2025-11-18 20:05:42,373-69-'NoneType' object has no attribute 'to_csv'-40
+2025-11-18 20:13:27,707-20-logger init-10
+2025-11-18 20:13:27,708-57-program started-10
+2025-11-18 20:13:27,746-25-csv file loaded-10
+2025-11-18 20:13:27,746-60-file loaded-10
+2025-11-18 20:13:27,762-43-cannot convert the series to <class 'int'>-40
+2025-11-18 20:13:27,765-62-preprocessing done for age-10
+2025-11-18 20:13:27,765-55-'NoneType' object is not subscriptable-40
+2025-11-18 20:13:27,765-64-preprocessing done for marks-10
+2025-11-18 20:13:27,765-69-'NoneType' object has no attribute 'to_csv'-40
+2025-11-18 20:15:40,903-20-logger init-10
+2025-11-18 20:15:40,904-57-program started-10
+2025-11-18 20:15:40,954-25-csv file loaded-10
+2025-11-18 20:15:40,954-60-file loaded-10
+2025-11-18 20:15:40,994-40-age column done-10
+2025-11-18 20:15:40,995-62-preprocessing done for age-10
+2025-11-18 20:15:40,995-64-preprocessing done for marks-10
+2025-11-18 20:15:41,002-67-csv saved-10
